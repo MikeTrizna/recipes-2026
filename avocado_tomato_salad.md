@@ -1,7 +1,7 @@
 (Taken from https://www.food.com/recipe/cherry-tomato-avocado-salad-255007)
 
 Ingredients:
-- 4 cups avocados, diced medium
+- 4 cups avocados, diced small
 - 2 cups grape tomatoes or 2 cups cherry tomatoes
 - 2 cups cucumbers, peeled and diced medium
 - 1 cup red onion, diced small
